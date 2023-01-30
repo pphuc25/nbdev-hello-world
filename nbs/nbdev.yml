@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://pphuc25.github.io/nbdev-hello-world"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/pphuc25/nbdev-hello-world"
